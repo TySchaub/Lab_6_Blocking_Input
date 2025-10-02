@@ -11,7 +11,7 @@ public class FuelCosts
         double miles100Cost = 0.0;
         double fullTankDistance = 0.0;
         boolean done = false;
-        String trash;
+        String trash = "";
 
         do
         {

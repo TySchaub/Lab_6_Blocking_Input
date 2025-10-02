@@ -8,7 +8,7 @@ public class CtoFConverter
         double fahrenheit = 0.0; // (celsius * 9/5) + 32;
         Scanner in = new Scanner(System.in);
         boolean done = false;
-        String trash;
+        String trash = "";
 
         do {
             System.out.print("Enter a temperature in Celsius:");
